@@ -1,7 +1,7 @@
 {
-  "name": "craftitalk",
+  "name": "mini-react-setup",
   "version": "1.0.0",
-  "description": "A scoial media web application which will enable users to share their artistic work",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "webpack-dev-server": "webpack-dev-server",
